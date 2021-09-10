@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name":"Manuel Gama",
+    "description":"I am a web developer and I use react and vue.js to develop pages. I discovered a passion for programming and technologies when I was in high school and I joined into a graphic design workshop. There I learned html and css but it was just the beginning",
+    "image":"profilepic.jpeg",
+    "bio":"I’m a person who love to learn and solve problems every day, that’s why I love my career. I use to be a self student and I discovered a passion for programming and technology. As a engineer I think that is really important to have crazy ideas and never be realistic, because all the best softwares and technologies that we have nowadays never was created being realistic.",
+    "contactmessage":"Are you a customer who needs help? If you are wondering about an order, our website or whatever. Let's chat!",
+    "email": "gamamanuel11@gmail.com",
+    "phone": "33-19-16-17-06",
+    "github":"https://github.com/manuelgm10",
+    "project":"https://github.com/manuelgm10/mylandingpage",
+    "address":{
+      "street":"Rafael Robles Galvez",
+      "city":"Zapopan",
+      "state":"Jalisco",
+      "zip": "45199"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1Kpfa89RT17Qt-d0avwTjH2qw_7YFDbR8/view?usp=drivesdk",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/manuel.gamamontano",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/manuelgm_1",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/manuel-gama-76374221a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/manuelgm_10",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/manuelgm10",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am web developer that know about agile methodologies and my biggest skills are analytical and problem-solving. I never feel uncomfortable when I am working under pressure.",
+    "education":[
+      {
+        "school":"Universidad de Guadalajara",
+        "degree":"Computer Engineering",
+        "graduated":"January 2019 - Present",
+        "description":"Some of the popular subjects included in this 4- year long course are Data Structure and Algorithm, Computer Architecture, Database Management, etc."
+      },
+      {
+        "school":"Universidad de Guadalajara",
+        "degree":"High School and Graphic Design Workshop",
+        "graduated":"August 2015 - August 2018",
+        "description":"Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports."
+      }
+    ],
+    "work":[
+      {
+        "company":"CZ Green",
+        "title":"Web developer",
+        "years":"August 2021 - Present",
+        "description":"We are creating a module for their website where they can connect easily with his volunteers when they have a new recollection or a campaign of cleaning. We’ve been doing it with agile methodologies and design thinking."
+      },
+      {
+        "company":"ImpresSanchez",
+        "title":"Salesman and Graphic Designer",
+        "years":"March 2019 - September 2019",
+        "description":"First of all, my main goal was to bring the best option about what the customer was needing but my last two months there, I used to create business cards and labels as a graphic designer."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML, CSS",
+        "level":"90%"
+      },
+      {
+        "name":"REACTJS",
+        "level":"75%"
+      },
+      {
+        "name":"VUEJS",
+        "level":"50%"
+      },
+      {
+        "name":"PYTHON",
+        "level":"70%"
+      },
+      {
+        "name":"REST APIS",
+        "level":"80%"
+      },
+      {
+        "name":"GLOOGLE CLOUD PLATFORM (GCP)",
+        "level":"85%"
+      },
+      {
+        "name":"AMAZON WEB SERVICES (AWS)",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"My crypto app",
+        "image":"01.jpeg"
+      },
+      {
+        "title":"Resume website",
+        "image":"02.jpeg"
+      },
+      {
+        "title":"Voltage measurements",
+        "image":"03.jpeg"
+      },
+      {
+        "title":"CZ Green (Work in Progress)",
+        "image":"04.jpeg"
+      }
+    ]
+  }
+}
